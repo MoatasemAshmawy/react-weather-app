@@ -1,2 +1,2 @@
 # react-weather-app
-A WeatheAPI App
+A WeatherAPI App
